@@ -1,6 +1,6 @@
-# 💻 Maliha Frontend Lab
+#  Frontend Lab
 
-Welcome to **Maliha Frontend Lab** — a curated collection of my frontend development projects built with **HTML**, **CSS**, and **JavaScript**.  
+Welcome to **Frontend Lab** — a curated collection of my frontend development projects built with **HTML**, **CSS**, and **JavaScript**.  
 Each project reflects my journey in web design, UI development, and interactive front-end engineering.
 
 ---
@@ -11,7 +11,7 @@ This repository showcases:
 - Responsive landing pages  
 - Interactive UI/UX experiments  
 - Animation and layout techniques (Flexbox, Grid, Transitions)  
-- Vanilla JavaScript projects and mini web apps  
+- Vanilla JavaScript projects 
 
 I use this space to **prototype, learn, and improve** my frontend craft.
 
@@ -23,7 +23,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 |-----------|--------------|
 | Structure | HTML5 |
 | Styling | CSS3 (Flexbox, Grid, Animations) |
-| Logic | JavaScript (ES6+) |
+| Logic | JavaScript  |
 | Tools | VS Code, Git, GitHub |
 
 ---
@@ -32,20 +32,14 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 
 | Project | Description |
 |----------|--------------|
-| `project-1-name` | A short summary of what this project does. |
-| `project-2-name` | Description here. |
-| `project-3-name` | Description here. |
+| `Tic Tac Toe` | Just a simple tic tac toe game, where two friends can interact with it and play from a single device |
+| `To do list` | Daily to do list maker to keep one on track|
+| `Gomoku` | Description here. |
 
 *(Each project will have its own folder with a `README.md` and preview screenshots.)*
 
 ---
 
-## 🎨 Design Philosophy
-
-> “Code is design, design is communication.”  
-I focus on creating **visually appealing**, **responsive**, and **user-friendly** interfaces that align with modern web trends.
-
----
 
 ## 🧠 Learning Goals
 
@@ -60,9 +54,9 @@ I focus on creating **visually appealing**, **responsive**, and **user-friendly*
 
 Let’s collaborate or talk about web projects!  
 
-🌐 [Portfolio Website (coming soon)](https://example.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📧 [Email](mailto:youremail@example.com)
+ 
+💼 [LinkedIn](https://www.linkedin.com/in/hesney-hasin-maliha/)  
+📧 [Email](mailto:hesneyhasinmaliha@gmail.com)
 
 ---
 
