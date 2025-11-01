@@ -34,7 +34,7 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 |----------|--------------|
 | `Tic Tac Toe`| Just a simple tic tac toe game, where two friends can interact with it and play from a single device |
 | `To do list`| Daily to do list maker to keep one on track|
-| `Gomoku` | A colorful, interactive two-player Gomoku (Five in a Row).Players alternate placing black and white stones on a 10x10 grid, aiming to be the first to create an unbroken line of five stones horizontally, vertically, or diagonally..|
+| `Gomoku`| A colorful, interactive two-player Gomoku (Five in a Row).Players alternate placing black and white stones on a 10x10 grid, aiming to be the first to create an unbroken line of five stones horizontally, vertically, or diagonally..|
 
 *(Each project will have its own folder with a `README.md` and preview screenshots.)*
 
