@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gomoku</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gomoku 🎯</h1>
+        
+        <div class="current-player">
+            Current Player: <span id="currentPlayer">Black</span>
+            <span class="player-indicator black" id="playerIndicator"></span>
+        </div>
+
+        <div class="game-board" id="gameBoard"></div>
+
+        <div class="message" id="message"></div>
+
+        <div class="info">
+            <div class="score">Player 1 (Black): <span id="player1Score">0</span></div>
+            <div class="score">Player 2 (White): <span id="player2Score">0</span></div>
+        </div>
+
+        <button class="play-button" id="playButton">New Game</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
