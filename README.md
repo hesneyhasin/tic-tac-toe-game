@@ -32,8 +32,8 @@ I use this space to **prototype, learn, and improve** my frontend craft.
 
 | Project | Description |
 |----------|--------------|
-| `Tic Tac Toe` | Just a simple tic tac toe game, where two friends can interact with it and play from a single device |
-| `To do list` | Daily to do list maker to keep one on track|
+| `Tic Tac Toe`| Just a simple tic tac toe game, where two friends can interact with it and play from a single device |
+| `To do list`| Daily to do list maker to keep one on track|
 | `Gomoku` | Description here. |
 
 *(Each project will have its own folder with a `README.md` and preview screenshots.)*
